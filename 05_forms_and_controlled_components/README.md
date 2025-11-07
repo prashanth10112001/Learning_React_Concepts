@@ -183,5 +183,3 @@ We’ve now covered:
 6. Forms & Lifting State Up
 
 Next, we can move to **React Router** for page navigation or start exploring **advanced hooks and context**.
-
-Do you want to go to **React Router** next?

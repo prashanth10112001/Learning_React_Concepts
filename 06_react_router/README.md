@@ -158,5 +158,3 @@ Next, we can explore **Advanced React Concepts**:
 - **useReducer** (complex state logic)
 - **Custom Hooks**
 - **Performance Optimization (memo, useMemo, useCallback)**
-
-Do you want to continue with **Context API & global state** next?

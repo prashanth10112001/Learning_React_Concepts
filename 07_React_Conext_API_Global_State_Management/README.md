@@ -160,5 +160,3 @@ Build a **theme toggler** app:
 We’ve now covered **Context API** and touched on **useReducer**.
 
 Next, we can move to **Custom Hooks & Performance Optimization** to make React apps **cleaner and faster**.
-
-Do you want to continue with that?

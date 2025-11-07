@@ -200,5 +200,3 @@ We’ve now covered **Advanced React Topics**:
 - Performance optimization patterns
 
 Next, we can explore **React best practices, testing, and real-world project structure** to wrap up your React mastery.
-
-Do you want to continue with that?

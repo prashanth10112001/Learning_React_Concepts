@@ -157,5 +157,3 @@ Now that you know:
 ➡️ **Next**, we’ll cover **Props & State** — the heart of React components.
 
 ---
-
-Would you like me to move on to **Props & State (with examples)** now?

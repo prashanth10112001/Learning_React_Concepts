@@ -143,5 +143,3 @@ Next, we can move to **Intermediate Concepts** like:
 - **useEffect** (handling side effects)
 - **Forms & Controlled Components**
 - **Lifting State Up**
-
-Do you want to move on to **useEffect & side effects** next?

@@ -130,5 +130,3 @@ Create a component that:
 ---
 
 After mastering **useEffect**, we can move to **Forms, Controlled Components, and Lifting State Up**, which are essential for handling user input and shared state.
-
-Do you want to continue with that next?

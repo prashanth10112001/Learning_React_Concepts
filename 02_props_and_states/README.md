@@ -166,5 +166,3 @@ Try creating a small component on your own:
 - shows: “👍 Likes: X”
 
 ---
-
-Would you like me to go step-by-step through **Event Handling & Conditional Rendering** next (the next building blocks after props/state)?
